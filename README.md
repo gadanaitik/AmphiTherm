@@ -1,3 +1,9 @@
+The original README of the repository that was forked from p-pottier/AmphiTherm is given below. Changes made to the forked repo: 
+
+* Added "analysis/Thermal Tolerance Assessment and Uncertainty Propogation.ipynb": Contains a Jupyter notebook of the data and statistical analysis conducted on the underlying database file, `Cleaned_and_curated_data_AmphiTherm.csv`. This analysis contains the thermal tolerance assessments across life stages, experimental endpoints, geography and IUCN status. It also goes a step further to introduce uncertainty quantification of the CTmax measurements across each life stage and endpoints to evaluate the effects of variability and potential bias in the trends seen in the initial assessments. 
+
+
+
 # *AmphiTherm*: A comprehensive database of amphibian thermal tolerance and preference.
 
 This repository contains the data and code to reproduce the results from Pottier P., Oh R.R.Y, Pollo P., Rivera-Villanueva A.N., Yang Y., Varon S., Longo A.V., Burke S., Lin H-Y., Valdebenito J.O., Amano T., Drobniak S.M., Nakagawa, S., and Claunch N. (2025). *AmphiTherm*: a comprehensive database of amphibian thermal tolerance and preference. *Scientific Data**
