@@ -8,6 +8,7 @@ Added "analysis/" with two versions of exploratory assessments on the AmphiTherm
 * `Thermal Tolerance Assessment and Uncertainty Propagation_v2.ipynb`: A second version of the original analysis with some changes and updated References markdown cell at the end of the notebook.
   
 
+---
 
 # *AmphiTherm*: A comprehensive database of amphibian thermal tolerance and preference.
 
